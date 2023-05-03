@@ -241,7 +241,7 @@ header {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 600;
 }
 
@@ -356,7 +356,7 @@ main {
 /*Volunteer*/
 .volunteer {
   background: #f08080;
-  font-family: sans-serif;
+  font-family: "NTR", sans-serif;
   padding-bottom: 20px;
 }
 
